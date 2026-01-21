@@ -1,7 +1,7 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
-  "name": "Mint Starter Kit",
+  "name": "CreatorDB API Documentation",
   "colors": {
     "primary": "#FF6117",
     "light": "#FF7B3E",
@@ -46,14 +46,6 @@
             "pages": [
               "troubleshooting/faqs",
               "troubleshooting/common_error_codes"
-            ]
-          },
-          {
-            "group": "AI tools",
-            "pages": [
-              "ai-tools/cursor",
-              "ai-tools/claude-code",
-              "ai-tools/windsurf"
             ]
           }
         ]
