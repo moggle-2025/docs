@@ -1441,8 +1441,8 @@ paths:
   /youtubeHistory:
     get:
       tags:
-        - youtube
-      summary: YouTube Basic + Historical
+        - YouTube
+      summary: YouTube Historical Data
       description: ''
       operationId: ''
       parameters:
